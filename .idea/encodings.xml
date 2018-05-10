@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Chopro/burschen_burschen.chopro" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/Chopro/roter_mond.chopro" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/Chopro/wenn_der_abend_naht.chopro" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Chopro/An den Flammen zusammengerückt.cpm" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/Chopro/burschen_burschen.chopro" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/Chopro/roter_mond.chopro" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/Chopro/weisse schluchten berg und.cpm" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/Chopro/well how do you do.cpm" charset="ISO-8859-15" />
+    <file url="file://$PROJECT_DIR$/Chopro/wenn_der_abend_naht.chopro" charset="ISO-8859-15" />
+    <file url="PROJECT" charset="ISO-8859-1" />
   </component>
 </project>
